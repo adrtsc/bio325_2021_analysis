@@ -49,4 +49,8 @@ Clone this repository by typing this command in your terminal
 ## Start Jupyter lab
 
     jupyter lab
+    
+## Download cellpose models
+
+https://www.dropbox.com/sh/g6lymwqa1gxn9ch/AAABMLjdIisW0XE1QPEzeVKVa?dl=0
 
