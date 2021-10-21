@@ -54,3 +54,7 @@ Clone this repository by typing this command in your terminal
 
 https://www.dropbox.com/sh/g6lymwqa1gxn9ch/AAABMLjdIisW0XE1QPEzeVKVa?dl=0
 
+## Install lca
+
+pip install git+https://github.com/adrtsc/lca/.git
+
