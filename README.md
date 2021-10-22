@@ -58,3 +58,7 @@ https://www.dropbox.com/sh/g6lymwqa1gxn9ch/AAABMLjdIisW0XE1QPEzeVKVa?dl=0
 
 pip install git+https://github.com/adrtsc/lca.git
 
+## Pull changes from main
+
+    git pull origin main
+
